@@ -23,3 +23,7 @@
   #### First we Check out how Many total fatalities have been experienced by each make so far.
 
   * A graph showing total fatalities that are experienced by the to air craft makes.
+![fatal_Make](https://github.com/Baraka-Wambua/Phase-one-project/assets/169344090/7e102c45-fc6b-4717-895c-82805896dbe6)
+
+* A graph showing The total number of survovors by the top Aircraft.
+
