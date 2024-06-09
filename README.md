@@ -23,7 +23,29 @@
   #### First we Check out how Many total fatalities have been experienced by each make so far.
 
   * A graph showing total fatalities that are experienced by the to air craft makes.
-![fatal_Make](https://github.com/Baraka-Wambua/Phase-one-project/assets/169344090/7e102c45-fc6b-4717-895c-82805896dbe6)
+     ![fatal_Make](https://github.com/Baraka-Wambua/Phase-one-project/assets/169344090/c43e7f22-72d8-4353-895a-2199926306fe)
+  * A graph showing Total number of those who were uninjured in the accidents experienced by certain aircraft make.
+![Make_by_Uninjured](https://github.com/Baraka-Wambua/Phase-one-project/assets/169344090/2da1bfff-c6c0-4bd2-9f52-9dc391734366)
+    
+     
+    
 
-* A graph showing The total number of survovors by the top Aircraft.
+
+* A Pie chart showing the most used type of engine in the top 10 arcraft. 
+![Pie_Chart](https://github.com/Baraka-Wambua/Phase-one-project/assets/169344090/25e61b33-2b31-4d11-abce-f98d6fd8b47b)
+
+## Conclusions.
+
+* Both boeing and Air bus have experienced high number of fatalities over   the years.
+* Despite Boeing And Airbus having the highest number of total deaths, they also lead in the number of survivors in the accidents.                                                         
+* Among the top 8 Aircraft, Cessna had the least amount of fatal injuries as well as the highest number of those who were uninjured.                                                       
+* The most used type of engine is Reciprocating engine .
+
+  ## Recommendations.
+*It is recommended that the company considers buying Boeing that has reciprocating  type of engine.                                                                                    
+*The second aircraft to put into consideration is Boeing that has reciprocating type of engine.  
+
+   ## PDF presentation.
+   Below is a presentation of the analysis.
+ [Presentation..pdf](https://github.com/user-attachments/files/15753865/Presentation.pdf)
 
