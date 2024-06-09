@@ -16,7 +16,10 @@
 
   ## Method of Analysis.
 * The dataset is reduced into the relevant columns for the analysis.
+* Null values arer filled up.
 * The rows that are duplicates are dropped.
 * New columns are created out of the existing data.
 
-  ## Results.
+  #### First we Check out how Many total fatalities have been experienced by each make so far.
+
+  * A graph showing total fatalities that are experienced by the to air craft makes.
